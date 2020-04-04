@@ -1,8 +1,15 @@
-# with open("t.txt", 'r') as text:
-#     line = text.readline()
-#     while line != '':
-#         print(line.lstrip())
-#         line = text.readline()
+# with open("t.txt", 'r') as b:
+#     line = b.readline()
+#     print(line.lstrip())
 
-string = "// comment"
-print(string[0:2])
+#     line = b.readline()
+#     print(line.lstrip())
+
+#     line = b.readline()
+#     print(line.lstrip())
+
+#     line = b.readline()
+#     print(line.lstrip())
+
+#     if (line.isspace()):
+#         print("yep")
